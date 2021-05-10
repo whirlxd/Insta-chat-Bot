@@ -8,7 +8,7 @@ const Init = new Main();
 
 
 
-Init.login('whirl_21' , 'Itachiop14' , nubs);
+Init.login('ur user acc' , 'ur pass' , nubs);
 nubs.on('connected' , () => {
     console.log("HI! I am ready to act weird cuz lul why not ?")
 })
