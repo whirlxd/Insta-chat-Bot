@@ -1,0 +1,15 @@
+{
+  "name": "insta-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "message.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Whirl",
+  "license": "ISC",
+  "dependencies": {
+    "@androz2091/insta.js": "^1.6.1",
+    "alexa-bot-api": "^2.0.5"
+  }
+}
